@@ -46,5 +46,3 @@ By using the statistical data about how certain aspects like BMI, Glucose level,
 
 
 https://user-images.githubusercontent.com/93514601/212849311-c4cd0995-f9d9-4ae1-a866-06e02116e341.mp4
-
-
