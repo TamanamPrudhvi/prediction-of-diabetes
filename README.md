@@ -10,19 +10,36 @@ By using the statistical data about how certain aspects like BMI, Glucose level,
 
 # screenshots
 
+  
+  
+  
 ![2023-01-17](https://user-images.githubusercontent.com/93514601/212823911-c6b74cf0-5a47-444a-a5b0-142ff6e004c6.png)
+
+
+
 
 
 ![2023-01-17 (1)](https://user-images.githubusercontent.com/93514601/212823444-981b7ce1-63be-448c-b96f-a67d083c124f.png)
 
 
+
+
+
 ![2023-01-17 (2)](https://user-images.githubusercontent.com/93514601/212823474-8978b3ee-7f5f-48b6-bbf0-98bdf1d924d8.png)
+
+
 
 
 ![2023-01-17 (3)](https://user-images.githubusercontent.com/93514601/212823486-b5176634-0af8-4355-aa17-6deadcd18bed.png)
 
 
+
+
+
 ![2023-01-17 (4)](https://user-images.githubusercontent.com/93514601/212823517-344fbd62-3e9c-4e92-a09d-68d7bed67b39.png)
+
+
+
 
 
 # [Azure LiveDemo](https://predictionofdiabe.azurewebsites.net)
